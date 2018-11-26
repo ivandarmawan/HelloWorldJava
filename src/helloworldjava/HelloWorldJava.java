@@ -17,6 +17,7 @@ public class HelloWorldJava {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Hi, I am Fathira. Commited from Netbeans");
+        System.out.println("Hello Conflict - Ivan");
     }
     
 }
